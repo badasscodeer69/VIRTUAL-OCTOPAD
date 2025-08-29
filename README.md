@@ -35,19 +35,19 @@ Virtual-Octopad/
 
 Clone this repository
 
-git clone https://github.com/your-username/virtual-octopad.git
-cd virtual-octopad
+    git clone https://github.com/badasscoder69/VIRTUAL-OCTOPAD.git
+    cd virtual-octopad
 
 
 Install dependencies
 Make sure you have Python 3.8+ installed. Then run:
 
-pip install opencv-python mediapipe pygame
+    pip install opencv-python mediapipe pygame
 
 
 Run the project
 
-python octopad.py
+    python octopad.py
 
 🎮 How to Play
 
@@ -61,12 +61,7 @@ Each pad = different drum sound.
 
 To exit → press q.
 
-📸 Demo
 
-(Add screenshots or GIF here)
-Example:
-
-[ Webcam view with pads overlayed ]
 
 ⚡ Requirements
 
