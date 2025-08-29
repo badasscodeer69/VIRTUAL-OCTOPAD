@@ -52,34 +52,34 @@ Run the project
 
 🎮 How to Play
 
-Make sure your webcam is connected.
-
-Run the script → a window opens with 8 pads drawn.
-
-Use your index finger to hit different pads:
-
-Each pad = different drum sound.
-
-To exit → press q.
+    Make sure your webcam is connected.
+    
+    Run the script → a window opens with 8 pads drawn.
+    
+    Use your index finger to hit different pads:
+    
+    Each pad = different drum sound.
+    
+    To exit → press q.
 
 
 
 ⚡ Requirements
 
-Python 3.8+
-
-OpenCV
-
-MediaPipe
-
-Pygame
+    Python 3.8+
+    
+    OpenCV
+    
+    MediaPipe
+    
+    Pygame
 
 📝 Future Improvements
 
-Add custom sound mapping (user can assign their own sounds)
-
-Multi-hand simultaneous pad hits
-
-Visual effects (glow/animations on pad hit)
-
-Recording and playback functionality
+    Add custom sound mapping (user can assign their own sounds)
+    
+    Multi-hand simultaneous pad hits
+    
+    Visual effects (glow/animations on pad hit)
+    
+    Recording and playback functionality
