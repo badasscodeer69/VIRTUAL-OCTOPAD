@@ -19,17 +19,18 @@ Play an octopad (8 drum pads) using your hands in front of a webcam — no physi
 🖥️ Press q to exit
 
 📂 Project Structure
-               #VIRTUAL_OCTOPAD/
-                #│── octopad.py          # Main Python script
-                #│── kick.wav            # Drum sounds
-                #│── snare.wav
-                #│── hithat.wav
-                #│── tom01.wav
-                #│── tom02.wav
-                #│── crash.wav
-                #│── ride.wav
-                #│── clap.wav
-                #│── README.md           # Project documentation
+
+               VIRTUAL_OCTOPAD/
+                │── octopad.py          # Main Python script
+                │── kick.wav            # Drum sounds
+                │── snare.wav
+                │── hithat.wav
+                │── tom01.wav
+                │── tom02.wav
+                │── crash.wav
+                │── ride.wav
+                │── clap.wav
+                
 
 🛠️ Installation
 
